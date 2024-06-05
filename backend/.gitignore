@@ -1,0 +1,6 @@
+# Env File Containing DB Connection and PORTS
+.env
+
+# These can be installed later
+node_modules/
+

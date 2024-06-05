@@ -1,1 +1,1 @@
-Mern Stack CRUP Operations App - Backend and Frontend - MongoDB and ExpressJS is used in Backend and ReactJS for FrontEnd
+Mern Stack CRUP Operations App - Backend and Frontend - ExpressJS & NodeJS used in Backend, MongoDB Atlas - Database and ReactJS for FrontEnd.
